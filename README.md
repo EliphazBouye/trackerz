@@ -1,4 +1,4 @@
-# Traacker app
+# Trackerz app
 
 ### What is tracker ?  
 Tracker is a expense tracker and finance management application.  

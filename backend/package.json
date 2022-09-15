@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node ./drivers/webserver/index.js",
+    "dev": "nodemon ./drivers/webserver/index.js"
   },
   "author": "Eliphaz Bouye",
   "license": "MIT",
